@@ -1,0 +1,122 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "GameFramework/Actor.h"
+#include "Components/TimelineComponent.h"
+#include "Door.generated.h"
+
+UCLASS()
+class PROJECTMAZE_API ADoor : public AActor
+{
+	GENERATED_BODY()
+	
+public:	
+	// Sets default values for this actor's properties
+	ADoor();
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Timeline>
+	UFUNCTION()
+		void KeyTimelineProgress(float value);
+
+	UFUNCTION()
+		void DoorTimelineProgress(float value);
+	// </Timeline>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+protected:
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <ADoor>
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
+
+	// Called every frame
+	virtual void Tick(float DeltaTime) override;
+	// </ADoor>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <PlayerInput>
+	// APlayerCharacter Input Component
+	void BindToInput();
+	// </PlayerInput>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Components>
+	// The root component
+	class USceneComponent* sceneComp;
+
+	//the platform Mesh
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Components")
+		class UStaticMeshComponent* doorMesh;
+
+	// TriggerBox component
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Collision")
+		class UBoxComponent* TriggerBox;
+
+	//the key hole
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Components")
+		class USceneComponent* keyHole;
+
+	//the key
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Components")
+		class UStaticMeshComponent* keyMesh;
+	// </Components>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Collision>
+	//checks to see if any actors have overlapped the collision box
+	UFUNCTION()
+		void OnTriggerBoxOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
+	
+	//checks to see if any actors have exited the collision box
+	UFUNCTION()
+		void OnComponentEndOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
+
+	// </Collision>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Timeline>
+	// Called when the player interacts with the door
+	FTimeline KeyCurveTimeline;
+
+	// Called when the player interacts with the door
+	FTimeline DoorCurveTimeline;
+
+	UPROPERTY(EditAnywhere, Category = "Timeline")
+		UCurveFloat* DoorPositionFloat;
+
+	UPROPERTY(EditAnywhere, Category = "Timeline")
+		UCurveFloat* KeyPositionFloat;
+
+	// check if the key timeline is finished
+	bool keyTimelineFinished;
+	// </Timeline>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Gameplay>
+	void OnInteraction();
+
+	bool isOpen;
+	// </Gameplay>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Audio>
+	// play the sound for the player opening the door
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Audio")
+		class USoundBase* doorSound;
+	// </Audio>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+};

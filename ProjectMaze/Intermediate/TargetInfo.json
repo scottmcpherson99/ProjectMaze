@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectMaze",
+			"Path": "D:\\Unreal Projects\\ProjectMaze\\Source\\ProjectMaze.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectMazeEditor",
+			"Path": "D:\\Unreal Projects\\ProjectMaze\\Source\\ProjectMazeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

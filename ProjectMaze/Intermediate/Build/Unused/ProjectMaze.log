@@ -1,0 +1,11 @@
+﻿  Building ProjectMazeEditor...
+  Using Visual Studio 2019 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] MazeGameInstance.cpp
+    [2/4] UE4Editor-ProjectMaze-0142.lib
+       Creating library D:\Unreal Projects\ProjectMaze\Intermediate\Build\Win64\UE4Editor\Development\ProjectMaze\UE4Editor-ProjectMaze-0142.lib and object D:\Unreal Projects\ProjectMaze\Intermediate\Build\Win64\UE4Editor\Development\ProjectMaze\UE4Editor-ProjectMaze-0142.exp
+    [3/4] UE4Editor-ProjectMaze-0142.dll
+       Creating library D:\Unreal Projects\ProjectMaze\Intermediate\Build\Win64\UE4Editor\Development\ProjectMaze\UE4Editor-ProjectMaze-0142.suppressed.lib and object D:\Unreal Projects\ProjectMaze\Intermediate\Build\Win64\UE4Editor\Development\ProjectMaze\UE4Editor-ProjectMaze-0142.suppressed.exp
+    [4/4] ProjectMazeEditor.target
+  Total time in Parallel executor: 3.88 seconds
+  Total execution time: 4.27 seconds

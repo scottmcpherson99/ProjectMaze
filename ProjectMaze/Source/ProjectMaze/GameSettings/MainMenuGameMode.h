@@ -1,0 +1,37 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "GameFramework/GameModeBase.h"
+#include "MainMenuGameMode.generated.h"
+
+/**
+ * 
+ */
+UCLASS()
+class PROJECTMAZE_API AMainMenuGameMode : public AGameModeBase
+{
+	GENERATED_BODY()
+
+public:
+	AMainMenuGameMode();
+
+
+protected:
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <AMainMenuGameMode>
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
+	// </AMainMenuGameMode>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Widgets>
+	//widget class to use for our hud screen
+	UPROPERTY(EditAnywhere, Category = "Widget")
+		TSubclassOf<UUserWidget> MainMenuWidget;
+	// </Widgets>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+};

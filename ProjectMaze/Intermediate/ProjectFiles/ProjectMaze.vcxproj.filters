@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectMaze.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{31F78E06-9134-48F3-A5AD-E560216669E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectMaze.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectMazeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C9A6B1A1-7E1F-4777-9139-A890C68E0737}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectMaze">
+      <UniqueIdentifier>{399231F0-C266-4084-B21C-F3038490DF2B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectMaze\HeadsUpDisplay.cpp">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\HeadsUpDisplay.h">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\LoseScreen.cpp">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\LoseScreen.h">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\MainMenu.cpp">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\MainMenu.h">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectMaze\ProjectMaze.Build.cs">
+      <Filter>Source\ProjectMaze</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectMaze\ProjectMaze.cpp">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\ProjectMaze.h">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\SaveGameObject.cpp">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\SaveGameObject.h">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\WinScreen.cpp">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\WinScreen.h">
+      <Filter>Source\ProjectMaze</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectMaze\Blueprints">
+      <UniqueIdentifier>{DAE044EE-1901-45F7-AC12-2869CED68F6E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectMaze\Blueprints\Arrow.cpp">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\Blueprints\Arrow.h">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\Blueprints\Door.cpp">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\Blueprints\Door.h">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\Blueprints\GoalPlatform.cpp">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\Blueprints\GoalPlatform.h">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\Blueprints\KeyPickup.cpp">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\Blueprints\KeyPickup.h">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\Blueprints\Shooter.cpp">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\Blueprints\Shooter.h">
+      <Filter>Source\ProjectMaze\Blueprints</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectMaze\GameSettings">
+      <UniqueIdentifier>{D13D28AB-25A8-4748-8AE0-2613CA2DAD3F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectMaze\GameSettings\MainMenuGameMode.cpp">
+      <Filter>Source\ProjectMaze\GameSettings</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\GameSettings\MainMenuGameMode.h">
+      <Filter>Source\ProjectMaze\GameSettings</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\GameSettings\MazeGameInstance.cpp">
+      <Filter>Source\ProjectMaze\GameSettings</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\GameSettings\MazeGameInstance.h">
+      <Filter>Source\ProjectMaze\GameSettings</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectMaze\GameSettings\MazeGameMode.cpp">
+      <Filter>Source\ProjectMaze\GameSettings</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\GameSettings\MazeGameMode.h">
+      <Filter>Source\ProjectMaze\GameSettings</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectMaze\PlayerCharacter">
+      <UniqueIdentifier>{F6356C51-C0F2-4457-978F-37034E896A6B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectMaze\PlayerCharacter\PlayerCharacter.cpp">
+      <Filter>Source\ProjectMaze\PlayerCharacter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMaze\PlayerCharacter\PlayerCharacter.h">
+      <Filter>Source\ProjectMaze\PlayerCharacter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

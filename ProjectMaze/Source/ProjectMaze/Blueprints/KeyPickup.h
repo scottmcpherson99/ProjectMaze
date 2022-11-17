@@ -1,0 +1,85 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "GameFramework/Actor.h"
+#include "KeyPickup.generated.h"
+
+UCLASS()
+class PROJECTMAZE_API AKeyPickup : public AActor
+{
+	GENERATED_BODY()
+	
+public:	
+	// Sets default values for this actor's properties
+	AKeyPickup();
+protected:
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <AKeyPickup>
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
+
+	// Called every frame
+	virtual void Tick(float DeltaTime) override;
+	// </AKeyPickup>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <PlayerInput>
+	// APlayerCharacter Input Component
+	void BindToInput();
+	// </PlayerInput>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Components>
+	// The root component
+	class USceneComponent* sceneComp;
+
+	//the platform Mesh
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Components")
+		class UStaticMeshComponent* platformMesh;
+
+	// TriggerBox component
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Collision")
+		class UBoxComponent* TriggerBox;
+
+	//the key Mesh
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Components")
+		class UStaticMeshComponent* keyMesh;
+	// </Components>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Collision>
+	//checks to see if any actors have overlapped the collision box
+	UFUNCTION()
+		void OnTriggerBoxOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
+
+	//checks to see if any actors have exited the collision box
+	UFUNCTION()
+		void OnComponentEndOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
+
+	// </Collision>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Gameplay>
+	void OnInteraction();
+	// </Gameplay>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////
+	// <Audio>
+	// play the sound for the player collecting the key
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Audio")
+		class USoundBase* pickupSound;
+	// </Audio>
+	///////////////////////////////////////////////////////////////////////////////////////////////////////
+};

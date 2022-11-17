@@ -1,0 +1,1546 @@
+﻿Log file open, 11/13/22 19:39:13
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ProjectMaze
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.331901
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=scottmcpherson99 -epicuserid=145895a01578435199236c3b4607ae66 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Engine.ini]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Engine.ini]
+[2022.11.13-19.39.13:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Engine.ini]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Engine.ini]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.13-19.39.13:523][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.13-19.39.13:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Engine.ini]
+[2022.11.13-19.39.13:524][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Engine.ini]
+[2022.11.13-19.39.13:527][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.13-19.39.13:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.13-19.39.13:528][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.13-19.39.13:528][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.13-19.39.13:528][  0]LogHAL: Display: Platform has ~ 16 GB [17005359104 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.13-19.39.13:528][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.13-19.39.13:528][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:529][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.13-19.39.13:529][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.13-19.39.13:529][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Scalability.ini]
+[2022.11.13-19.39.13:529][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.13-19.39.13:529][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.13-19.39.13:529][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.13-19.39.13:529][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.13-19.39.13:529][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.13-19.39.13:529][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.13-19.39.13:529][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.13-19.39.13:529][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Engine.ini]
+[2022.11.13-19.39.13:529][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/ProjectMaze/Saved/Config/Windows/Editor.ini]
+[2022.11.13-19.39.13:529][  0]LogInit: Computer: WINDOWS-AB2R1IR
+[2022.11.13-19.39.13:529][  0]LogInit: User: scott
+[2022.11.13-19.39.13:529][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.13-19.39.13:529][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.13-19.39.13:529][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.11.13-19.39.13:529][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.13-19.39.13:529][  0]LogMemory: Process Physical Memory: 135.32 MB used, 135.32 MB peak
+[2022.11.13-19.39.13:529][  0]LogMemory: Process Virtual Memory: 111.55 MB used, 111.55 MB peak
+[2022.11.13-19.39.13:529][  0]LogMemory: Physical Memory: 7222.29 MB used,  8995.28 MB free, 16217.57 MB total
+[2022.11.13-19.39.13:529][  0]LogMemory: Virtual Memory: 134193256.00 MB used,  24475.66 MB free, 134217728.00 MB total
+[2022.11.13-19.39.13:532][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.13-19.39.13:559][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.13-19.39.13:559][  0]LogInit: Using OS detected language (en-US).
+[2022.11.13-19.39.13:559][  0]LogInit: Using OS detected locale (en-GB).
+[2022.11.13-19.39.13:563][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.11.13-19.39.13:685][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.13-19.39.13:693][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.13-19.39.13:699][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.13-19.39.13:699][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.13-19.39.13:786][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.13-19.39.13:786][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.13-19.39.13:786][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.13-19.39.13:786][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.13-19.39.13:860][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2022.11.13-19.39.13:860][  0]LogD3D11RHI:       12137/0/8108 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.11.13-19.39.13:861][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.13-19.39.13:861][  0]LogD3D11RHI:       0/0/8108 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.13-19.39.13:861][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.11.13-19.39.13:867][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.13-19.39.13:867][  0]LogD3D11RHI:     GPU DeviceId: 0x2487 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.13-19.39.13:867][  0]LogWindows: EnumDisplayDevices:
+[2022.11.13-19.39.13:867][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2022.11.13-19.39.13:867][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2022.11.13-19.39.13:868][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2022.11.13-19.39.13:868][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2022.11.13-19.39.13:868][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.13-19.39.13:868][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2022.11.13-19.39.13:868][  0]LogD3D11RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.11.13-19.39.13:868][  0]LogD3D11RHI:      Driver Date: 3-17-2022
+[2022.11.13-19.39.13:868][  0]LogRHI: Texture pool is 8495 MB (70% of 12137 MB)
+[2022.11.13-19.39.13:924][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.13-19.39.13:924][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.13-19.39.13:924][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.13-19.39.13:935][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.11.13-19.39.13:936][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.13-19.39.14:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.13-19.39.14:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.13-19.39.14:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.13-19.39.14:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.13-19.39.14:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.13-19.39.14:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.13-19.39.14:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.13-19.39.14:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.13-19.39.14:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.13-19.39.14:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.13-19.39.14:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.13-19.39.14:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.13-19.39.14:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.13-19.39.14:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.13-19.39.14:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.13-19.39.14:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.13-19.39.14:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.13-19.39.14:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.13-19.39.14:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.13-19.39.14:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.13-19.39.14:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.13-19.39.14:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.13-19.39.14:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.13-19.39.14:299][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.13-19.39.14:303][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.13-19.39.14:339][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.13-19.39.14:339][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (D:/Unreal Projects/ProjectMaze/Intermediate/Shaders/WorkingDirectory/16704/).
+[2022.11.13-19.39.14:339][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scott/AppData/Local/Temp/UnrealShaderWorkingDir/8EBA5A34423BFCB40E7721BC08FF164B/'.
+[2022.11.13-19.39.14:339][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.13-19.39.14:339][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.13-19.39.14:917][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.13-19.39.14:950][  0]LogDerivedDataCache: Loaded boot cache 0.03s 77MB C:/Users/scott/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.13-19.39.14:950][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/scott/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.11.13-19.39.14:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/ProjectMaze/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.13-19.39.14:978][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.13-19.39.14:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/ProjectMaze/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.13-19.39.14:978][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.13-19.39.14:988][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.13-19.39.14:988][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.13-19.39.14:988][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.13-19.39.14:997][  0]LogDerivedDataCache: Speed tests for C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.13-19.39.14:997][  0]LogDerivedDataCache: Display: Performance to C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=215.40MBs, RandomWriteSpeed=217.81MBs. Assigned SpeedClass 'Local'
+[2022.11.13-19.39.14:997][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.13-19.39.14:997][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.13-19.39.14:997][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.13-19.39.15:033][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.13-19.39.15:033][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.13-19.39.15:048][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2022.11.13-19.39.15:207][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.13-19.39.15:207][  0]LogInit: Active device profile: [0000027EF662BC00][0000027EED38B600 49] Windows
+[2022.11.13-19.39.15:207][  0]LogInit: Profiles: [0000027EF662BC00][0000027EED38B600 49] Windows, [0000027EF65E4600][0000027EED38F740 49] WindowsNoEditor, [0000027EF6628400][0000027EF6A53880 49] WindowsServer, [0000027EF65E7900][0000027EF6A65A00 49] WindowsClient, [0000027EF662B800][0000027EF6A69B80 49] IOS, [0000027EF65E4900][0000027EF6A6DD00 49] iPadAir, [0000027EF6628800][0000027EF6A701C0 49] iPadAir2, [0000027EF6569500][0000027EF6A7C480 49] IPadPro, [0000027EF6569600][0000027EF6A784C0 49] iPadAir3, [0000027EF662B600][0000027EF6A84640 49] iPadAir4, [0000027EF6568A00][0000027EF6A8C7C0 49] iPadMini2, [0000027EF6628500][0000027EF6A90940 49] iPadMini3, [0000027EF656A100][0000027EF6A98AC0 49] iPadMini4, [0000027EF662B300][0000027EF6A9CC40 49] iPadMini5, [0000027EF65E6600][0000027EF6AACF00 49] iPhone6, [0000027EF65E6500][0000027EF6AA4F40 49] iPodTouch6, [0000027EF656BB00][0000027EF6ABD200 49] iPhone7, [0000027EF656BA00][0000027EF6AB9240 49] iPodTouch7, [0000027EF65E6A00][0000027EF6AC13C0 49] iPhone5S, [0000027EF656BC00][0000027EF6AC5540 49] iPhone6Plus, [0000027EF65E5D00][0000027EF6A61680 49] iPhone6S, [0000027EF656B100][0000027EF6AC97C0 49] iPhone6SPlus, [0000027EF65E7500][0000027EF6ACD900 49] iPhone7Plus, [0000027EF6568300][0000027EF6AD5A80 49] iPhoneSE, [0000027EF65E5800][0000027EF6AD9C00 49] iPhone8, [0000027EF656AC00][0000027EF6ADC0C0 49] iPhone8Plus, [0000027EF65E7E00][0000027EF6AE0240 49] iPhoneX, [0000027EF6568800][0000027EF6AE43C0 49] iPhoneXS, [0000027EF65E6E00][0000027EF6AE8540 49] iPhoneXSMax, [0000027EF6569100][0000027EF6AEC6C0 49] iPhoneXR, [0000027EF65E5B00][0000027EF6AF0840 49] iPhone11, [0000027EF6569F00][0000027EF6AF49C0 49] iPhone11Pro, [0000027EF65E5400][0000027EF6AF8B40 49] iPhone11ProMax, [0000027EF656A600][0000027EF6AFCCC0 49] iPhoneSE2, [0000027EF65E6100][0000027EF6B00E40 49] iPhone12Mini, [0000027EF6569E00][0000027EF6B04FC0 49] iPhone12, [0000027EF65E5000][0000027EF6B09140 49] iPhone12Pro, [0000027EF6568C00][0000027EF6B0D2C0 49] iPhone12ProMax, [0000027EF65E5900][0000027EF6B11440 49] iPadPro105, [0000027EF6569B00][0000027EF6B155C0 49] iPadPro129, [0000027EF65E4E00][0000027EF6AD1700 49] iPadPro97, [0000027EF656A300][0000027EF6B19840 49] iPadPro2_129, [0000027EF65E4400][0000027EF6B1D980 49] iPad5, [0000027EF6569800][0000027EF6B21AC0 49] iPad6, [0000027EF65E4C00][0000027EF6B29C40 49] iPad7, [0000027EF6569700][0000027EF6B2C100 49] iPad8, [0000027EF65E4F00][0000027EF6B30280 49] iPadPro11, [0000027EF656A900][0000027EF6B34400 49] iPadPro2_11, [0000027EF65E7800][0000027EF6B38580 49] iPadPro3_129, [0000027EF6568500][0000027EF6B3C700 49] iPadPro4_129, [0000027EF65E4300][0000027EF6B40880 49] AppleTV, [0000027EF656B700][0000027EF6B44A00 49] AppleTV4K, [0000027EF65E6C00][0000027EF6B48B80 49] TVOS, [0000027EF656BD00][0000027EF6B4CD00 49] Mac, [0000027EF65E4B00][0000027EF6B50E80 49] MacClient, [0000027EF656B000][0000027EF6B55000 49] MacNoEditor, [0000027EF65E6700][0000027EF6B59180 49] MacServer, [0000027EF656AE00][0000027EF6B5D300 49] Linux, [0000027EF65E5200][0000027EF6B61480 49] LinuxAArch64, [0000027EF656B500][0000027EF6B65600 49] LinuxNoEditor, [0000027EF65E6D00][0000027EF6B25740 49] LinuxAArch64NoEditor, [0000027EF656A200][0000027EF6B69880 49] LinuxClient, [0000027EF65E6F00][0000027EF6B6D9C0 49] LinuxAArch64Client, [0000027EF656AD00][0000027EF6B71B00 49] LinuxServer, [0000027EF65E5700][0000027EF6B79C80 49] LinuxAArch64Server, [0000027EF6628B00][0000027EF6B7C140 49] Android, [0000027EF669D400][0000027EF6B802C0 49] Android_Low, [0000027EF662AF00][0000027EF6B84440 49] Android_Mid, [0000027EF669C600][0000027EF6B885C0 49] Android_High, [0000027EF6629D00][0000027EF6B8C740 49] Android_Default, [0000027EF669D900][0000027EF6B908C0 49] Android_Adreno4xx, [0000027EF6629000][0000027EF6B94A40 49] Android_Adreno5xx_Low, [0000027EF669C400][0000027EF6B98BC0 49] Android_Adreno5xx, [0000027EF6628100][0000027EF6B9CD40 49] Android_Adreno6xx, [0000027EF669CF00][0000027EF6BA0EC0 49] Android_Adreno6xx_Vulkan, [0000027EF662A100][0000027EF6BA5040 49] Android_Mali_T6xx, [0000027EF669C100][0000027EF6BA91C0 49] Android_Mali_T7xx, [0000027EF6628F00][0000027EF6BAD340 49] Android_Mali_T8xx, [0000027EF669CD00][0000027EF6BB14C0 49] Android_Mali_G71, [0000027EF6629600][0000027EF6BB5640 49] Android_Mali_G72, [0000027EF669D100][0000027EF6BB97C0 49] Android_Mali_G72_Vulkan, [0000027EF6629B00][0000027EF6B75900 49] Android_Mali_G76, [0000027EF669D000][0000027EF6BBDA40 49] Android_Mali_G76_Vulkan, [0000027EF662BF00][0000027EF6BC1B80 49] Android_Mali_G77, [0000027EF669C900][0000027EF6BC9D00 49] Android_Mali_G77_Vulkan, [0000027EF662A400][0000027EF6BCC1C0 49] Android_Vulkan_SM5, [0000027EF669CA00][0000027EF6BD0340 49] Android_PowerVR_G6xxx, [0000027EF65E6B00][0000027EF6BD44C0 49] Android_PowerVR_GT7xxx, [0000027EF6568600][0000027EF6BD8640 49] Android_PowerVR_GE8xxx, [0000027EF65E6300][0000027EF6BDC7C0 49] Android_PowerVR_GM9xxx, [0000027EF656BE00][0000027EF6BE0940 49] Android_PowerVR_GM9xxx_Vulkan, [0000027EF65E7C00][0000027EF6BE4AC0 49] Android_TegraK1, [0000027EF6569000][0000027EF6BE8C40 49] Android_Unknown_Vulkan, [0000027EF65E4200][0000027EF6BECDC0 49] Lumin, [0000027EF6568700][0000027EF6BF0F40 49] Lumin_Desktop, [0000027EF65E5100][0000027EF6BF50C0 49] HoloLens, 
+[2022.11.13-19.39.15:297][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.13-19.39.15:297][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.13-19.39.15:297][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.13-19.39.15:297][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.13-19.39.15:298][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.13-19.39.15:308][  0]LogNetVersion: ProjectMaze 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1394170098)
+[2022.11.13-19.39.15:592][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.13-19.39.15:658][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.065818 seconds
+[2022.11.13-19.39.15:661][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.11.13-19.39.15:661][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.11.13-19.39.15:661][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.13-19.39.15:915][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.13-19.39.15:918][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.13-19.39.16:105][  0]SourceControl: Source control is disabled
+[2022.11.13-19.39.16:105][  0]SourceControl: Source control is disabled
+[2022.11.13-19.39.16:107][  0]SourceControl: Source control is disabled
+[2022.11.13-19.39.16:108][  0]SourceControl: Source control is disabled
+[2022.11.13-19.39.16:110][  0]SourceControl: Source control is disabled
+[2022.11.13-19.39.16:117][  0]LogUProjectInfo: Found projects:
+[2022.11.13-19.39.16:220][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.13-19.39.16:228][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.13-19.39.16:228][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.13-19.39.16:262][  0]LogCollectionManager: Loaded 0 collections in 0.000905 seconds
+[2022.11.13-19.39.16:277][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/ProjectMaze/Saved/Collections/' took 0.00s
+[2022.11.13-19.39.16:277][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/ProjectMaze/Content/Developers/scott/Collections/' took 0.00s
+[2022.11.13-19.39.16:277][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/ProjectMaze/Content/Collections/' took 0.00s
+[2022.11.13-19.39.16:277][  0]LogOcInput: OculusInput pre-init called
+[2022.11.13-19.39.16:285][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.11.13-19.39.16:285][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.11.13-19.39.16:319][  0]LogEngine: Initializing Engine...
+[2022.11.13-19.39.16:320][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.13-19.39.16:321][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.13-19.39.16:321][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.13-19.39.16:396][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.13-19.39.16:402][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.13-19.39.16:407][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.13-19.39.16:410][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.13-19.39.16:410][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.13-19.39.16:410][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-19.39.16:410][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-19.39.16:410][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-19.39.16:410][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-19.39.16:410][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-19.39.16:410][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-19.39.16:410][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-19.39.16:410][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-19.39.16:410][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-19.39.16:410][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-19.39.16:418][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-19.39.16:418][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-19.39.16:454][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-19.39.16:456][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-19.39.16:457][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-19.39.16:457][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-19.39.16:457][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-19.39.16:457][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-19.39.16:457][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-19.39.16:458][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-19.39.16:458][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-19.39.16:458][  0]LogInit: FAudioDevice initialized.
+[2022.11.13-19.39.16:458][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.13-19.39.16:458][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.13-19.39.16:488][  0]LogDerivedDataCache: Saved boot cache 0.03s 77MB C:/Users/scott/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.13-19.39.16:489][  0]LogInit: Texture streaming: Enabled
+[2022.11.13-19.39.16:497][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.11.13-19.39.16:500][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.13-19.39.16:500][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.13-19.39.16:501][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.13-19.39.16:518][  0]LogInit: Transaction tracking system initialized
+[2022.11.13-19.39.16:531][  0]BlueprintLog: New page: Editor Load
+[2022.11.13-19.39.16:576][  0]LocalizationService: Localization service is disabled
+[2022.11.13-19.39.16:591][  0]TimingProfiler: Initialize
+[2022.11.13-19.39.16:591][  0]TimingProfiler: OnSessionChanged
+[2022.11.13-19.39.16:591][  0]LoadingProfiler: Initialize
+[2022.11.13-19.39.16:591][  0]LoadingProfiler: OnSessionChanged
+[2022.11.13-19.39.16:591][  0]NetworkingProfiler: Initialize
+[2022.11.13-19.39.16:591][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.13-19.39.16:591][  0]MemoryProfiler: Initialize
+[2022.11.13-19.39.16:591][  0]MemoryProfiler: OnSessionChanged
+[2022.11.13-19.39.16:689][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.13-19.39.16:689][  0]LogCook: Display: Mobile HDR setting 1
+[2022.11.13-19.39.16:788][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/ProjectMaze/Content/' took 0.01s
+[2022.11.13-19.39.16:892][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.13-19.39.16:893][  0]SourceControl: Source control is disabled
+[2022.11.13-19.39.16:893][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.335
+[2022.11.13-19.39.16:893][  0]Cmd: MAP LOAD FILE="D:/Unreal Projects/ProjectMaze/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.13-19.39.16:894][  0]LightingResults: New page: Lighting Build
+[2022.11.13-19.39.16:894][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.39.16:894][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.39.16:894][  0]MapCheck: New page: Map Check
+[2022.11.13-19.39.16:894][  0]LightingResults: New page: Lighting Build
+[2022.11.13-19.39.16:899][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.13-19.39.17:242][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.11.13-19.39.17:242][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.13-19.39.17:247][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.13-19.39.17:252][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.13-19.39.17:252][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.13-19.39.17:252][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2022.11.13-19.39.17:252][  0]LogFileHelpers: Loading map 'MainMenu' took 0.358
+[2022.11.13-19.39.17:294][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.735
+[2022.11.13-19.39.17:442][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.39.17:447][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.39.17:451][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.39.17:455][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.39.17:479][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0063 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.39.17:484][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.13-19.39.17:494][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.13-19.39.17:494][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:494][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.13-19.39.17:494][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.11.13-19.39.17:500][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.13-19.39.17:500][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:500][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.13-19.39.17:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.11.13-19.39.17:505][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.13-19.39.17:505][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:505][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.13-19.39.17:505][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.11.13-19.39.17:510][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.13-19.39.17:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.13-19.39.17:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.11.13-19.39.17:514][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.13-19.39.17:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.13-19.39.17:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.11.13-19.39.17:519][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.13-19.39.17:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.13-19.39.17:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.11.13-19.39.17:523][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.13-19.39.17:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.13-19.39.17:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.11.13-19.39.17:528][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.13-19.39.17:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.13-19.39.17:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.11.13-19.39.17:534][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.13-19.39.17:534][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:534][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.13-19.39.17:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.11.13-19.39.17:538][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.13-19.39.17:538][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:538][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.13-19.39.17:538][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.11.13-19.39.17:542][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.13-19.39.17:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.13-19.39.17:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.13-19.39.17:547][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.13-19.39.17:547][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:547][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.13-19.39.17:547][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.11.13-19.39.17:551][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.13-19.39.17:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.13-19.39.17:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.11.13-19.39.17:555][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.13-19.39.17:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.13-19.39.17:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.11.13-19.39.17:559][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.13-19.39.17:559][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:559][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.13-19.39.17:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.11.13-19.39.17:564][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.13-19.39.17:564][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:564][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.13-19.39.17:564][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.11.13-19.39.17:569][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.13-19.39.17:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.13-19.39.17:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.11.13-19.39.17:574][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.13-19.39.17:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.13-19.39.17:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.11.13-19.39.17:578][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.13-19.39.17:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.13-19.39.17:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.11.13-19.39.17:585][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.13-19.39.17:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.13-19.39.17:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.11.13-19.39.17:589][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.13-19.39.17:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.13-19.39.17:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.11.13-19.39.17:593][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.13-19.39.17:593][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.13-19.39.17:593][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.11.13-19.39.17:597][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.13-19.39.17:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.13-19.39.17:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.11.13-19.39.17:602][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.13-19.39.17:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.13-19.39.17:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.11.13-19.39.17:606][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.13-19.39.17:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.13-19.39.17:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.11.13-19.39.17:610][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.13-19.39.17:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.13-19.39.17:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.13-19.39.17:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.11.13-19.39.17:750][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.13-19.39.17:756][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.11.13-19.39.17:880][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.13-19.39.17:882][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.13-19.39.17:889][  0]LogSlate: Took 0.003340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.13-19.39.17:996][  0]LogRenderer: Reallocating scene render targets to support 1164x536 Format 10 NumSamples 1 (Frame:1).
+[2022.11.13-19.39.18:039][  0]LogSlate: Took 0.004914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.13-19.39.18:309][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.13-19.39.18:309][  0]LogLoad: (Engine Initialization) Total time: 5.75 seconds
+[2022.11.13-19.39.18:309][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.13-19.39.18:309][  0]LogInit: First time updating LLM stats...
+[2022.11.13-19.39.18:336][  0]LogAssetRegistry: Asset discovery search completed in 3.2888 seconds
+[2022.11.13-19.39.18:337][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.13-19.39.18:353][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.13-19.39.18:379][  1]LogRenderer: Reallocating scene render targets to support 1164x552 Format 10 NumSamples 1 (Frame:3).
+[2022.11.13-19.39.19:324][102]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.13-19.39.34:538][664]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_HeadsUpDisplay.WBP_HeadsUpDisplay
+[2022.11.13-19.39.34:891][664]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.11.13-19.39.35:724][664]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.13-19.46.53:899][104]LogHotReload: New module detected: UE4Editor-ProjectMaze-0091.dll
+[2022.11.13-19.46.55:911][111]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-19.46.55:952][111]LogClass: Could not find existing class HeadsUpDisplay in package /Script/ProjectMaze for HotReload, assuming new class
+[2022.11.13-19.46.55:968][111]LogHotReload: Re-instancing HeadsUpDisplay after hot-reload.
+[2022.11.13-19.46.56:044][111]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0003 seconds. Added 12 classes and 5 folders.
+[2022.11.13-19.46.56:047][111]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-19.46.56:115][111]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0062 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.46.56:163][111]Display: HotReload took  0.3s.
+[2022.11.13-19.47.52:409][279]LogHotReload: New module detected: UE4Editor-ProjectMaze-0092.dll
+[2022.11.13-19.47.53:421][283]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-19.47.53:465][283]LogClass: Could not find existing class HeadsUpDisplay in package /Script/ProjectMaze for HotReload, assuming new class
+[2022.11.13-19.47.53:480][283]LogHotReload: Re-instancing HeadsUpDisplay after hot-reload.
+[2022.11.13-19.47.53:547][283]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-19.47.53:550][283]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-19.47.53:614][283]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0064 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.47.53:617][283]Display: HotReload took  0.2s.
+[2022.11.13-19.49.14:760][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_HeadsUpDisplay" FILE="D:/Unreal Projects/ProjectMaze/Content/UI/WBP_HeadsUpDisplay.uasset" SILENT=true
+[2022.11.13-19.49.14:772][862]LogSavePackage: Moving 'D:/Unreal Projects/ProjectMaze/Saved/WBP_HeadsUpDisplay81B9197641E6194B753326A74D148EFC.tmp' to 'D:/Unreal Projects/ProjectMaze/Content/UI/WBP_HeadsUpDisplay.uasset'
+[2022.11.13-19.49.14:784][862]AssetCheck: New page: Asset Save: WBP_HeadsUpDisplay
+[2022.11.13-19.49.14:784][862]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_HeadsUpDisplay.WBP_HeadsUpDisplay
+[2022.11.13-19.49.15:406][921]BlueprintLog: New page: Compile WBP_HeadsUpDisplay
+[2022.11.13-19.49.15:530][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.11.13-19.49.15:593][921]LogSlate: Took 0.005443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.13-19.49.18:541][220]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-19.49.18:549][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-19.49.18:550][220]PIE: New page: PIE session: MainMenu (13 Nov 2022, 19:49:18)
+[2022.11.13-19.49.18:554][220]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.11.13-19.49.18:555][220]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.13-19.49.18:556][220]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2022.11.13-19.49.18:571][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014990s)
+[2022.11.13-19.49.18:572][220]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.13-19.49.18:573][220]LogPlayLevel: PIE: World Init took: (0.001866s)
+[2022.11.13-19.49.18:573][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.017128s)
+[2022.11.13-19.49.18:608][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.11.13-19.49.18:611][220]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.13-19.49.18:611][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-19.49.18:611][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-19.49.18:611][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-19.49.18:611][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-19.49.18:611][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-19.49.18:611][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-19.49.18:611][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-19.49.18:611][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-19.49.18:612][220]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-19.49.18:612][220]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-19.49.18:615][220]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-19.49.18:615][220]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-19.49.18:639][220]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-19.49.18:640][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-19.49.18:640][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-19.49.18:640][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-19.49.18:640][220]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-19.49.18:640][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-19.49.18:640][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-19.49.18:650][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-19.49.18:650][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-19.49.18:650][220]LogInit: FAudioDevice initialized.
+[2022.11.13-19.49.18:651][220]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.11.13-19.49.18:658][220]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2022.11.13-19.49.18:659][220]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.11.13-19.49.18
+[2022.11.13-19.49.18:661][220]LogWorld: Bringing up level for play took: 0.002527
+[2022.11.13-19.49.18:661][220]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.11.13-19.49.18:970][220]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2022.11.13-19.49.18:974][220]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.11.13-19.49.18:974][220]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.11.13-19.49.18:974][220]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.13-19.49.18:976][220]PIE: Server logged in
+[2022.11.13-19.49.18:978][220]PIE: Play in editor total start time 0.431 seconds.
+[2022.11.13-19.49.20:507][369]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.11.13-19.49.20:507][369]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.13-19.49.20:507][369]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2022.11.13-19.49.20:509][369]LogNet: Browse: /Game/Levels/Maze1
+[2022.11.13-19.49.20:509][369]LogLoad: LoadMap: /Game/Levels/Maze1
+[2022.11.13-19.49.20:509][369]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2022.11.13-19.49.20:512][369]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.49.20:513][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.49.20:556][369]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-19.49.20:586][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.11.13-19.49.21:077][369]LogAudio: Display: Audio Device (ID: 2) registered with world 'Maze1'.
+[2022.11.13-19.49.21:077][369]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-19.49.21:077][369]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-19.49.21:083][369]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-19.49.21
+[2022.11.13-19.49.21:083][369]LogWorld: Bringing up level for play took: 0.004715
+[2022.11.13-19.49.21:083][369]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.13-19.49.21:085][369]LogLoad: Took 0.575291 seconds to LoadMap(/Game/Levels/Maze1)
+[2022.11.13-19.49.22:764][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.49.22:764][552]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.49.22:764][552]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.49.22:765][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.49.22:774][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-19.49.22:777][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.49.22:793][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.49.22:795][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.49.22:797][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.49.22:830][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.11.13-19.49.22:854][553]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.11.13-19.49.32:023][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.11.13-19.49.32:056][462]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Maze1.Maze1
+[2022.11.13-19.49.32:057][462]Cmd: MAP LOAD FILE="D:/Unreal Projects/ProjectMaze/Content/Levels/Maze1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.13-19.49.32:057][462]LightingResults: New page: Lighting Build
+[2022.11.13-19.49.32:058][462]LoadErrors: New page: Loading map: Maze1.umap
+[2022.11.13-19.49.32:092][462]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.49.32:092][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.49.32:092][462]MapCheck: New page: Map Check
+[2022.11.13-19.49.32:092][462]LightingResults: New page: Lighting Build
+[2022.11.13-19.49.32:108][462]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-19.49.32:112][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.13-19.49.32:113][462]LogAudio: Display: Audio Device (ID: 1) registered with world 'Maze1'.
+[2022.11.13-19.49.32:186][462]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.13-19.49.32:186][462]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-19.49.32:203][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.13-19.49.32:206][462]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.13-19.49.32:206][462]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2022.11.13-19.49.32:206][462]LogFileHelpers: Loading map 'Maze1' took 0.150
+[2022.11.13-19.49.34:523][724]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-19.49.34:526][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-19.49.34:526][724]PIE: New page: PIE session: Maze1 (13 Nov 2022, 19:49:34)
+[2022.11.13-19.49.34:572][724]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.49.34:580][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007478s)
+[2022.11.13-19.49.34:580][724]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-19.49.34:581][724]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2022.11.13-19.49.34:581][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.008294s)
+[2022.11.13-19.49.34:596][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.13-19.49.34:597][724]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.13-19.49.34:597][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-19.49.34:597][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-19.49.34:597][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-19.49.34:597][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-19.49.34:597][724]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-19.49.34:597][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-19.49.34:597][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-19.49.34:597][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-19.49.34:597][724]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-19.49.34:597][724]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-19.49.34:600][724]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-19.49.34:600][724]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-19.49.34:625][724]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-19.49.34:625][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-19.49.34:625][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-19.49.34:625][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-19.49.34:626][724]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-19.49.34:626][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-19.49.34:626][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-19.49.34:636][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-19.49.34:636][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-19.49.34:636][724]LogInit: FAudioDevice initialized.
+[2022.11.13-19.49.34:636][724]LogAudio: Display: Audio Device (ID: 3) registered with world 'Maze1'.
+[2022.11.13-19.49.34:646][724]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-19.49.34:650][724]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-19.49.34
+[2022.11.13-19.49.34:650][724]LogWorld: Bringing up level for play took: 0.003238
+[2022.11.13-19.49.34:650][724]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.11.13-19.49.34:652][724]PIE: Server logged in
+[2022.11.13-19.49.34:653][724]PIE: Play in editor total start time 0.127 seconds.
+[2022.11.13-19.49.35:663][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.49.35:663][840]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.49.35:663][840]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.49.35:664][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.49.35:674][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-19.49.35:677][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.49.35:691][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.49.35:692][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.49.35:693][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.49.35:709][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.13-19.49.35:742][842]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.11.13-19.50.48:830][170]LogHotReload: New module detected: UE4Editor-ProjectMaze-0093.dll
+[2022.11.13-19.50.49:507][173]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-19.50.49:567][173]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-19.50.49:570][173]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-19.50.49:619][173]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0062 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.50.49:623][173]Display: HotReload took  0.1s.
+[2022.11.13-19.50.52:400][264]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-19.50.52:404][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-19.50.52:404][264]PIE: New page: PIE session: Maze1 (13 Nov 2022, 19:50:52)
+[2022.11.13-19.50.52:432][264]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.50.52:440][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007510s)
+[2022.11.13-19.50.52:440][264]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-19.50.52:441][264]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2022.11.13-19.50.52:441][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.008260s)
+[2022.11.13-19.50.52:484][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.11.13-19.50.52:484][264]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.13-19.50.52:484][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-19.50.52:484][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-19.50.52:484][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-19.50.52:484][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-19.50.52:485][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-19.50.52:485][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-19.50.52:485][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-19.50.52:485][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-19.50.52:485][264]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-19.50.52:485][264]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-19.50.52:487][264]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-19.50.52:487][264]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-19.50.52:510][264]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-19.50.52:510][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-19.50.52:510][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-19.50.52:510][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-19.50.52:510][264]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-19.50.52:510][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-19.50.52:510][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-19.50.52:520][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-19.50.52:520][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-19.50.52:520][264]LogInit: FAudioDevice initialized.
+[2022.11.13-19.50.52:520][264]LogAudio: Display: Audio Device (ID: 4) registered with world 'Maze1'.
+[2022.11.13-19.50.52:527][264]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-19.50.52:530][264]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-19.50.52
+[2022.11.13-19.50.52:530][264]LogWorld: Bringing up level for play took: 0.002731
+[2022.11.13-19.50.52:530][264]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.11.13-19.50.52:532][264]PIE: Server logged in
+[2022.11.13-19.50.52:532][264]PIE: Play in editor total start time 0.128 seconds.
+[2022.11.13-19.50.53:503][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.50.53:503][373]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.50.53:503][373]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.50.53:503][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.50.53:512][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-19.50.53:515][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.50.53:527][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-19.50.53:531][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.50.53:532][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.50.53:545][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.50.53:558][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.13-19.50.53:572][374]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.11.13-19.51.07:489][439]LogHotReload: New module detected: UE4Editor-ProjectMaze-0094.dll
+[2022.11.13-19.51.07:833][441]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-19.51.07:879][441]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-19.51.07:881][441]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-19.51.07:924][441]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.51.07:927][441]Display: HotReload took  0.1s.
+[2022.11.13-19.51.09:765][493]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-19.51.09:769][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-19.51.09:769][493]PIE: New page: PIE session: Maze1 (13 Nov 2022, 19:51:09)
+[2022.11.13-19.51.09:802][493]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.51.09:810][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007656s)
+[2022.11.13-19.51.09:811][493]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-19.51.09:811][493]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2022.11.13-19.51.09:811][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.008443s)
+[2022.11.13-19.51.09:846][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.11.13-19.51.09:847][493]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.13-19.51.09:847][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-19.51.09:847][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-19.51.09:847][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-19.51.09:847][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-19.51.09:847][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-19.51.09:847][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-19.51.09:847][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-19.51.09:847][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-19.51.09:847][493]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-19.51.09:847][493]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-19.51.09:849][493]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-19.51.09:849][493]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-19.51.09:871][493]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-19.51.09:872][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-19.51.09:872][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-19.51.09:872][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-19.51.09:872][493]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-19.51.09:872][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-19.51.09:872][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-19.51.09:882][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-19.51.09:882][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-19.51.09:882][493]LogInit: FAudioDevice initialized.
+[2022.11.13-19.51.09:882][493]LogAudio: Display: Audio Device (ID: 5) registered with world 'Maze1'.
+[2022.11.13-19.51.09:890][493]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-19.51.09:894][493]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-19.51.09
+[2022.11.13-19.51.09:894][493]LogWorld: Bringing up level for play took: 0.003016
+[2022.11.13-19.51.09:894][493]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.11.13-19.51.09:896][493]PIE: Server logged in
+[2022.11.13-19.51.09:896][493]PIE: Play in editor total start time 0.127 seconds.
+[2022.11.13-19.51.10:643][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.51.10:643][576]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.51.10:643][576]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.51.10:644][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.51.10:649][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-19.51.10:652][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.51.10:664][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-19.51.10:664][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.51.10:665][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.51.10:678][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.51.10:682][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.13-19.51.10:719][579]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.11.13-19.51.20:638][634]LogHotReload: New module detected: UE4Editor-ProjectMaze-0095.dll
+[2022.11.13-19.51.21:313][637]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-19.51.21:361][637]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-19.51.21:364][637]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-19.51.21:399][637]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0059 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.51.21:403][637]Display: HotReload took  0.1s.
+[2022.11.13-19.56.03:676][481]LogHotReload: New module detected: UE4Editor-ProjectMaze-0096.dll
+[2022.11.13-19.56.04:351][484]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-19.56.04:414][484]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-19.56.04:417][484]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-19.56.04:471][484]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0066 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.56.04:476][484]Display: HotReload took  0.1s.
+[2022.11.13-19.56.10:395][542]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-19.56.10:399][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-19.56.10:400][542]PIE: New page: PIE session: Maze1 (13 Nov 2022, 19:56:10)
+[2022.11.13-19.56.10:400][542]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.56.10:408][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007987s)
+[2022.11.13-19.56.10:408][542]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-19.56.10:409][542]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2022.11.13-19.56.10:409][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.008873s)
+[2022.11.13-19.56.10:476][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.11.13-19.56.10:476][542]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.11.13-19.56.10:476][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-19.56.10:476][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-19.56.10:476][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-19.56.10:476][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-19.56.10:476][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-19.56.10:476][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-19.56.10:476][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-19.56.10:476][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-19.56.10:477][542]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-19.56.10:477][542]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-19.56.10:478][542]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-19.56.10:478][542]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-19.56.10:503][542]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-19.56.10:503][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-19.56.10:503][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-19.56.10:503][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-19.56.10:504][542]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-19.56.10:504][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-19.56.10:504][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-19.56.10:514][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-19.56.10:514][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-19.56.10:514][542]LogInit: FAudioDevice initialized.
+[2022.11.13-19.56.10:514][542]LogAudio: Display: Audio Device (ID: 6) registered with world 'Maze1'.
+[2022.11.13-19.56.10:523][542]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-19.56.10:527][542]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-19.56.10
+[2022.11.13-19.56.10:527][542]LogWorld: Bringing up level for play took: 0.003168
+[2022.11.13-19.56.10:527][542]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.11.13-19.56.10:529][542]PIE: Server logged in
+[2022.11.13-19.56.10:529][542]PIE: Play in editor total start time 0.13 seconds.
+[2022.11.13-19.56.13:142][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.56.13:142][841]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.56.13:143][841]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.56.13:143][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.56.13:151][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-19.56.13:153][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.56.13:167][841]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-19.56.13:167][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.56.13:168][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.56.13:181][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.56.13:191][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.11.13-19.56.13:206][842]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.11.13-19.56.13:862][912]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-19.56.13:866][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-19.56.13:867][912]PIE: New page: PIE session: Maze1 (13 Nov 2022, 19:56:13)
+[2022.11.13-19.56.13:867][912]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.56.13:875][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008113s)
+[2022.11.13-19.56.13:875][912]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-19.56.13:876][912]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2022.11.13-19.56.13:876][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.008913s)
+[2022.11.13-19.56.13:889][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.11.13-19.56.13:889][912]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.11.13-19.56.13:889][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-19.56.13:889][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-19.56.13:889][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-19.56.13:889][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-19.56.13:889][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-19.56.13:889][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-19.56.13:889][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-19.56.13:889][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-19.56.13:889][912]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-19.56.13:889][912]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-19.56.13:891][912]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-19.56.13:891][912]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-19.56.13:914][912]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-19.56.13:914][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-19.56.13:914][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-19.56.13:914][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-19.56.13:914][912]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-19.56.13:915][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-19.56.13:915][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-19.56.13:924][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-19.56.13:924][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-19.56.13:924][912]LogInit: FAudioDevice initialized.
+[2022.11.13-19.56.13:924][912]LogAudio: Display: Audio Device (ID: 7) registered with world 'Maze1'.
+[2022.11.13-19.56.13:932][912]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-19.56.13:936][912]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-19.56.13
+[2022.11.13-19.56.13:936][912]LogWorld: Bringing up level for play took: 0.002917
+[2022.11.13-19.56.13:936][912]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.11.13-19.56.13:938][912]PIE: Server logged in
+[2022.11.13-19.56.13:938][912]PIE: Play in editor total start time 0.072 seconds.
+[2022.11.13-19.56.27:982][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.56.27:982][574]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.56.27:983][574]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.56.27:983][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.56.27:993][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-19.56.27:996][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.56.28:009][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.56.28:010][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.56.28:011][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.56.28:026][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.13-19.56.28:058][576]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.11.13-19.57.30:888][809]LogHotReload: New module detected: UE4Editor-ProjectMaze-0098.dll
+[2022.11.13-19.57.31:570][812]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-19.57.31:634][812]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-19.57.31:637][812]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-19.57.31:691][812]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0070 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.57.31:694][812]Display: HotReload took  0.1s.
+[2022.11.13-19.57.36:403][860]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-19.57.36:407][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-19.57.36:407][860]PIE: New page: PIE session: Maze1 (13 Nov 2022, 19:57:36)
+[2022.11.13-19.57.36:442][860]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.57.36:450][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007831s)
+[2022.11.13-19.57.36:450][860]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-19.57.36:450][860]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2022.11.13-19.57.36:450][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.008791s)
+[2022.11.13-19.57.36:491][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.11.13-19.57.36:491][860]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.13-19.57.36:491][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-19.57.36:491][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-19.57.36:491][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-19.57.36:491][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-19.57.36:491][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-19.57.36:491][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-19.57.36:491][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-19.57.36:491][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-19.57.36:492][860]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-19.57.36:492][860]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-19.57.36:494][860]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-19.57.36:494][860]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-19.57.36:515][860]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-19.57.36:516][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-19.57.36:516][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-19.57.36:516][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-19.57.36:516][860]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-19.57.36:516][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-19.57.36:516][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-19.57.36:526][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-19.57.36:526][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-19.57.36:526][860]LogInit: FAudioDevice initialized.
+[2022.11.13-19.57.36:526][860]LogAudio: Display: Audio Device (ID: 8) registered with world 'Maze1'.
+[2022.11.13-19.57.36:530][860]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-19.57.36:534][860]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-19.57.36
+[2022.11.13-19.57.36:534][860]LogWorld: Bringing up level for play took: 0.003085
+[2022.11.13-19.57.36:534][860]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.11.13-19.57.36:536][860]PIE: Server logged in
+[2022.11.13-19.57.36:536][860]PIE: Play in editor total start time 0.13 seconds.
+[2022.11.13-19.57.42:012][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.57.42:012][504]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.57.42:012][504]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.57.42:013][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.57.42:021][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-19.57.42:024][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.57.42:038][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.57.42:039][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.57.42:040][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.57.42:068][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.13-19.57.42:103][506]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.11.13-19.58.20:219][663]LogHotReload: New module detected: UE4Editor-ProjectMaze-0101.dll
+[2022.11.13-19.58.20:893][666]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-19.58.20:952][666]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-19.58.20:955][666]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-19.58.20:998][666]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0063 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.58.21:002][666]Display: HotReload took  0.1s.
+[2022.11.13-19.58.25:590][679]LogHotReload: New module detected: UE4Editor-ProjectMaze-0102.dll
+[2022.11.13-19.58.26:277][682]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-19.58.26:340][682]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-19.58.26:343][682]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-19.58.26:393][682]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0068 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-19.58.26:396][682]Display: HotReload took  0.1s.
+[2022.11.13-19.58.29:005][800]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-19.58.29:009][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-19.58.29:009][800]PIE: New page: PIE session: Maze1 (13 Nov 2022, 19:58:29)
+[2022.11.13-19.58.29:031][800]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.58.29:039][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007629s)
+[2022.11.13-19.58.29:039][800]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-19.58.29:039][800]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2022.11.13-19.58.29:040][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.008410s)
+[2022.11.13-19.58.29:102][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.11.13-19.58.29:102][800]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.13-19.58.29:102][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-19.58.29:102][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-19.58.29:102][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-19.58.29:102][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-19.58.29:102][800]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-19.58.29:102][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-19.58.29:102][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-19.58.29:102][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-19.58.29:103][800]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-19.58.29:103][800]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-19.58.29:105][800]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-19.58.29:105][800]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-19.58.29:127][800]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-19.58.29:127][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-19.58.29:128][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-19.58.29:128][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-19.58.29:128][800]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-19.58.29:128][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-19.58.29:128][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-19.58.29:138][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-19.58.29:138][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-19.58.29:138][800]LogInit: FAudioDevice initialized.
+[2022.11.13-19.58.29:138][800]LogAudio: Display: Audio Device (ID: 9) registered with world 'Maze1'.
+[2022.11.13-19.58.29:148][800]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-19.58.29:151][800]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-19.58.29
+[2022.11.13-19.58.29:152][800]LogWorld: Bringing up level for play took: 0.003064
+[2022.11.13-19.58.29:152][800]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.11.13-19.58.29:153][800]PIE: Server logged in
+[2022.11.13-19.58.29:154][800]PIE: Play in editor total start time 0.145 seconds.
+[2022.11.13-19.58.45:202][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.58.45:202][721]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-19.58.45:202][721]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-19.58.45:203][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.58.45:210][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-19.58.45:214][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-19.58.45:228][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-19.58.45:230][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.58.45:231][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-19.58.45:244][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-19.58.45:252][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.11.13-19.58.45:285][723]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.11.13-20.03.49:388][721]LogHotReload: New module detected: UE4Editor-ProjectMaze-0104.dll
+[2022.11.13-20.03.49:732][723]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-20.03.49:794][723]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-20.03.49:796][723]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-20.03.49:850][723]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0068 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-20.03.49:854][723]Display: HotReload took  0.1s.
+[2022.11.13-20.04.24:587][502]LogEditorViewport: Clicking on Actor (LMB): BP_GoalPlatform_C (BP_GoalPlatform)
+[2022.11.13-20.04.25:472][598]Cmd: DELETE
+[2022.11.13-20.04.25:472][598]Cmd: ACTOR DELETE
+[2022.11.13-20.04.25:483][598]LogEditorActor: Deleted Actor: BP_GoalPlatform_C
+[2022.11.13-20.04.25:527][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.11.13-20.04.25:528][598]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.11.13-20.04.29:470][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maze1" FILE="D:/Unreal Projects/ProjectMaze/Content/Levels/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-20.04.29:501][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.11.13-20.04.29:529][ 63]LogSavePackage: Moving 'D:/Unreal Projects/ProjectMaze/Saved/Maze1C4D107C04194B8193974AD82E8C8D011.tmp' to 'D:/Unreal Projects/ProjectMaze/Content/Levels/Maze1.umap'
+[2022.11.13-20.04.29:635][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maze1_BuiltData" FILE="D:/Unreal Projects/ProjectMaze/Content/Levels/Maze1_BuiltData.uasset" SILENT=true
+[2022.11.13-20.04.30:228][ 63]LogSavePackage: Moving 'D:/Unreal Projects/ProjectMaze/Saved/Maze1_BuiltData107E18474A97D673BCF8B08611406EEB.tmp' to 'D:/Unreal Projects/ProjectMaze/Content/Levels/Maze1_BuiltData.uasset'
+[2022.11.13-20.04.30:255][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.13-20.04.30:255][ 63]LogContentValidation: Display: Validating World /Game/Levels/Maze1.Maze1
+[2022.11.13-20.04.30:255][ 63]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Maze1_BuiltData.Maze1_BuiltData
+[2022.11.13-20.04.58:566][227]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-20.04.58:570][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-20.04.58:570][227]PIE: New page: PIE session: Maze1 (13 Nov 2022, 20:04:58)
+[2022.11.13-20.04.58:601][227]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-20.04.58:609][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007615s)
+[2022.11.13-20.04.58:609][227]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-20.04.58:610][227]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2022.11.13-20.04.58:610][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.008547s)
+[2022.11.13-20.04.58:625][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.13-20.04.58:629][227]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.13-20.04.58:629][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-20.04.58:629][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-20.04.58:629][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-20.04.58:629][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-20.04.58:629][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-20.04.58:629][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-20.04.58:629][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-20.04.58:629][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-20.04.58:629][227]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-20.04.58:629][227]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-20.04.58:631][227]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-20.04.58:631][227]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-20.04.58:655][227]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-20.04.58:655][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-20.04.58:655][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-20.04.58:655][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-20.04.58:655][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-20.04.58:655][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-20.04.58:655][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-20.04.58:666][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-20.04.58:666][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-20.04.58:666][227]LogInit: FAudioDevice initialized.
+[2022.11.13-20.04.58:666][227]LogAudio: Display: Audio Device (ID: 10) registered with world 'Maze1'.
+[2022.11.13-20.04.58:672][227]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-20.04.58:675][227]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-20.04.58
+[2022.11.13-20.04.58:675][227]LogWorld: Bringing up level for play took: 0.003192
+[2022.11.13-20.04.58:675][227]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.11.13-20.04.58:677][227]PIE: Server logged in
+[2022.11.13-20.04.58:678][227]PIE: Play in editor total start time 0.109 seconds.
+[2022.11.13-20.05.10:502][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.05.10:502][633]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-20.05.10:502][633]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-20.05.10:503][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.05.10:511][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-20.05.10:529][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.05.10:544][633]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-20.05.10:544][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-20.05.10:545][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-20.05.10:558][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.05.10:561][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.13-20.05.10:588][634]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.11.13-20.05.19:163][682]LogHotReload: New module detected: UE4Editor-ProjectMaze-0105.dll
+[2022.11.13-20.05.21:527][690]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-20.05.21:590][690]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-20.05.21:593][690]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-20.05.21:651][690]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0072 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-20.05.21:654][690]Display: HotReload took  0.1s.
+[2022.11.13-20.05.23:519][746]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-20.05.23:522][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-20.05.23:522][746]PIE: New page: PIE session: Maze1 (13 Nov 2022, 20:05:23)
+[2022.11.13-20.05.23:561][746]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-20.05.23:568][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007658s)
+[2022.11.13-20.05.23:569][746]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-20.05.23:569][746]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2022.11.13-20.05.23:569][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.008453s)
+[2022.11.13-20.05.23:612][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.11.13-20.05.23:613][746]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.11.13-20.05.23:613][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-20.05.23:613][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-20.05.23:613][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-20.05.23:613][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-20.05.23:613][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-20.05.23:613][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-20.05.23:613][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-20.05.23:613][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-20.05.23:613][746]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-20.05.23:613][746]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-20.05.23:615][746]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-20.05.23:615][746]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-20.05.23:637][746]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-20.05.23:637][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-20.05.23:637][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-20.05.23:637][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-20.05.23:637][746]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-20.05.23:637][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-20.05.23:637][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-20.05.23:648][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-20.05.23:648][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-20.05.23:648][746]LogInit: FAudioDevice initialized.
+[2022.11.13-20.05.23:648][746]LogAudio: Display: Audio Device (ID: 11) registered with world 'Maze1'.
+[2022.11.13-20.05.23:653][746]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-20.05.23:655][746]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-20.05.23
+[2022.11.13-20.05.23:655][746]LogWorld: Bringing up level for play took: 0.002889
+[2022.11.13-20.05.23:655][746]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.11.13-20.05.23:657][746]PIE: Server logged in
+[2022.11.13-20.05.23:658][746]PIE: Play in editor total start time 0.136 seconds.
+[2022.11.13-20.05.36:812][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.05.36:812][307]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-20.05.36:812][307]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-20.05.36:812][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.05.36:822][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-20.05.36:840][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.05.36:854][307]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-20.05.36:854][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-20.05.36:855][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-20.05.36:868][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.05.36:872][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.11.13-20.05.36:897][308]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.11.13-20.05.40:463][733]Cmd: DELETE
+[2022.11.13-20.05.40:463][733]Cmd: ACTOR DELETE
+[2022.11.13-20.05.40:465][733]LogEditorActor: Deleted Actor: BP_Door_C
+[2022.11.13-20.05.40:481][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.11.13-20.05.40:482][733]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.11.13-20.05.41:947][909]LogEditorViewport: Clicking on Actor (LMB): BP_KeyPickup_C (BP_KeyPickup2)
+[2022.11.13-20.05.42:366][956]Cmd: DELETE
+[2022.11.13-20.05.42:366][956]Cmd: ACTOR DELETE
+[2022.11.13-20.05.42:368][956]LogEditorActor: Deleted Actor: BP_KeyPickup_C
+[2022.11.13-20.05.42:383][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.13-20.05.42:384][956]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2022.11.13-20.11.01:232][958]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave LightlessDawn_Music...
+[2022.11.13-20.11.01:631][958]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/LightlessDawn_Music.LightlessDawn_Music will be modified from 40 to 40.
+[2022.11.13-20.11.05:832][958]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 67004928 while cooking SoundWave /Game/Sounds/LightlessDawn_Music.LightlessDawn_Music.
+[2022.11.13-20.11.05:862][958]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds/LightlessDawn_Music.LightlessDawn_Music
+[2022.11.13-20.11.08:420][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/LightlessDawn_Music" FILE="D:/Unreal Projects/ProjectMaze/Content/Sounds/LightlessDawn_Music.uasset" SILENT=true
+[2022.11.13-20.11.11:439][210]LogSavePackage: Moving 'D:/Unreal Projects/ProjectMaze/Saved/LightlessDawn_Music1971B51D4B3734AE81D76080F86A879E.tmp' to 'D:/Unreal Projects/ProjectMaze/Content/Sounds/LightlessDawn_Music.uasset'
+[2022.11.13-20.11.11:648][210]AssetCheck: New page: Asset Save: LightlessDawn_Music
+[2022.11.13-20.11.11:648][210]LogContentValidation: Display: Validating SoundWave /Game/Sounds/LightlessDawn_Music.LightlessDawn_Music
+[2022.11.13-20.14.55:344][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.13-20.14.55:495][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maze1" FILE="D:/Unreal Projects/ProjectMaze/Saved/Autosaves/Game/Levels/Maze1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.11.13-20.14.55:567][672]LogSavePackage: Moving 'D:/Unreal Projects/ProjectMaze/Saved/Maze1_Auto16D0AFAD8467CA59BB7E69088E8379DDA.tmp' to 'D:/Unreal Projects/ProjectMaze/Saved/Autosaves/Game/Levels/Maze1_Auto1.umap'
+[2022.11.13-20.14.55:732][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maze1' took 0.404
+[2022.11.13-20.14.55:732][672]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.404
+[2022.11.13-20.15.47:809][829]LogHotReload: New module detected: UE4Editor-ProjectMaze-0106.dll
+[2022.11.13-20.15.48:485][832]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-20.15.48:554][832]LogClass: Could not find existing class MazeGameMode in package /Script/ProjectMaze for HotReload, assuming new class
+[2022.11.13-20.15.48:565][832]LogHotReload: Re-instancing MazeGameMode after hot-reload.
+[2022.11.13-20.15.48:583][832]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-20.15.48:585][832]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-20.15.48:639][832]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0063 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-20.15.48:642][832]Display: HotReload took  0.2s.
+[2022.11.13-20.16.22:012][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameSettings/BP_MazeGameMode.BP_MazeGameMode
+[2022.11.13-20.16.32:425][304]BlueprintLog: New page: Compile BP_MazeGameMode
+[2022.11.13-20.16.32:503][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.11.13-20.16.32:876][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameSettings/BP_MazeGameMode" FILE="D:/Unreal Projects/ProjectMaze/Content/GameSettings/BP_MazeGameMode.uasset" SILENT=true
+[2022.11.13-20.16.32:882][335]LogSavePackage: Moving 'D:/Unreal Projects/ProjectMaze/Saved/BP_MazeGameMode6B5BDDAE4779C7F996D20280AD2C2A64.tmp' to 'D:/Unreal Projects/ProjectMaze/Content/GameSettings/BP_MazeGameMode.uasset'
+[2022.11.13-20.16.32:890][335]AssetCheck: New page: Asset Save: BP_MazeGameMode
+[2022.11.13-20.16.32:890][335]LogContentValidation: Display: Validating Blueprint /Game/GameSettings/BP_MazeGameMode.BP_MazeGameMode
+[2022.11.13-20.16.35:075][577]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.13-20.16.35:079][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-20.16.35:079][577]PIE: New page: PIE session: Maze1 (13 Nov 2022, 20:16:35)
+[2022.11.13-20.16.35:111][577]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-20.16.35:121][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009833s)
+[2022.11.13-20.16.35:121][577]LogAIModule: Creating AISystem for world Maze1
+[2022.11.13-20.16.35:121][577]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2022.11.13-20.16.35:121][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze1.Maze1 to /Game/Levels/UEDPIE_0_Maze1.Maze1 (0.010744s)
+[2022.11.13-20.16.35:155][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.11.13-20.16.35:155][577]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.11.13-20.16.35:155][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-20.16.35:155][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-20.16.35:155][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-20.16.35:155][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-20.16.35:155][577]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-20.16.35:155][577]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.13-20.16.35:155][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-20.16.35:155][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-20.16.35:155][577]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.13-20.16.35:156][577]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.13-20.16.35:158][577]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.13-20.16.35:158][577]LogAudioMixer: Display: 1: FrontRight
+[2022.11.13-20.16.35:184][577]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.13-20.16.35:184][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-20.16.35:184][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-20.16.35:184][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-20.16.35:184][577]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.13-20.16.35:184][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.13-20.16.35:184][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.13-20.16.35:193][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.13-20.16.35:193][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.13-20.16.35:193][577]LogInit: FAudioDevice initialized.
+[2022.11.13-20.16.35:193][577]LogAudio: Display: Audio Device (ID: 12) registered with world 'Maze1'.
+[2022.11.13-20.16.35:199][577]LogLoad: Game class is 'BP_MazeGameMode_C'
+[2022.11.13-20.16.35:202][577]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 0) at 2022.11.13-20.16.35
+[2022.11.13-20.16.35:202][577]LogWorld: Bringing up level for play took: 0.003104
+[2022.11.13-20.16.35:203][577]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.11.13-20.16.35:204][577]PIE: Server logged in
+[2022.11.13-20.16.35:205][577]PIE: Play in editor total start time 0.127 seconds.
+[2022.11.13-20.16.35:224][577]LogAudio: Warning: Detected orphaned looping sound 'LightlessDawn_Music'.
+[2022.11.13-20.16.41:150][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.16.41:150][274]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze1
+[2022.11.13-20.16.41:151][274]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-20.16.41:151][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.16.41:156][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-20.16.41:159][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.16.41:174][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.16.41:174][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-20.16.41:175][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-20.16.41:191][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.13-20.16.41:227][276]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.11.13-20.17.14:533][405]LogHotReload: New module detected: UE4Editor-ProjectMaze-0107.dll
+[2022.11.13-20.17.15:215][408]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-20.17.15:271][408]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-20.17.15:274][408]Display: HotReload successful (15 functions remapped  0 scriptstructs remapped)
+[2022.11.13-20.17.15:331][408]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0064 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-20.17.15:337][408]Display: HotReload took  0.1s.
+[2022.11.13-20.20.27:775][983]LogHotReload: New module detected: UE4Editor-ProjectMaze-0108.dll
+[2022.11.13-20.20.28:454][986]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-20.20.28:491][986]LogClass: Could not find existing class KeyPickup in package /Script/ProjectMaze for HotReload, assuming new class
+[2022.11.13-20.20.28:491][986]LogClass: Function OnComponentEndOverlap is new.
+[2022.11.13-20.20.28:491][986]LogClass: Function OnTriggerBoxOverlap is new.
+[2022.11.13-20.20.28:510][986]LogHotReload: Re-instancing KeyPickup after hot-reload.
+[2022.11.13-20.20.28:544][986]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjectMaze' in 0.0002 seconds. Added 12 classes and 5 folders.
+[2022.11.13-20.20.28:548][986]Display: HotReload successful (13 functions remapped  0 scriptstructs remapped)
+[2022.11.13-20.20.28:620][986]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0074 seconds. Added 3613 classes and 864 folders.
+[2022.11.13-20.20.28:622][986]Display: HotReload took  0.2s.
+[2022.11.13-20.21.33:708][180]LogHotReload: New module detected: UE4Editor-ProjectMaze-0109.dll
+[2022.11.13-20.21.34:391][183]LogHotReload: Starting Hot-Reload from IDE
+[2022.11.13-20.21.34:421][183]LogClass: Could not find existing class Door in package /Script/ProjectMaze for HotReload, assuming new class
+[2022.11.13-20.21.34:421][183]LogClass: Function DoorTimelineProgress is new.
+[2022.11.13-20.21.34:421][183]LogClass: Function KeyTimelineProgress is new.
+[2022.11.13-20.21.34:421][183]LogClass: Function OnComponentEndOverlap is new.
+[2022.11.13-20.21.34:421][183]LogClass: Function OnTriggerBoxOverlap is new.
+[2022.11.13-20.21.34:425][183]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.13-20.21.34:426][183]LogWindows: Windows GetLastError: The operation completed successfully. (0)

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\ProjectMaze\\Source\\ProjectMaze\\ProjectMaze.Build.cs",
+		"D:\\Unreal Projects\\ProjectMaze\\Source\\ProjectMaze.Target.cs",
+		"D:\\Unreal Projects\\ProjectMaze\\Source\\ProjectMazeEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
